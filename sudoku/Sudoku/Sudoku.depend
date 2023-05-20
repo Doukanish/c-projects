@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1684606316 source:e:\codinginc\sudoku\functions.c
+	"dec.h"
+
+1684605148 source:e:\codinginc\sudoku\main.c
+	<stdio.h>
+	<stdlib.h>
+	"dec.h"
+
+1684605689 e:\codinginc\sudoku\dec.h
+	<stdio.h>
+	<stdlib.h>
+
+1684606202 source:e:\codinginc\sudoku\handlers.c
+	"dec.h"
+
